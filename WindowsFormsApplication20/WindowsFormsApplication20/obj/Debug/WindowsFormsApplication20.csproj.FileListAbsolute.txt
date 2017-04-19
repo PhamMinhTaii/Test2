@@ -1,1 +1,2 @@
 c:\users\tai\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\Users\tai\Desktop\MinhTaii\Test2\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
